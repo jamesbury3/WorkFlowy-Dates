@@ -8,7 +8,7 @@ public class ListGenerator {
 	public static void main(String[] args) {
 		
 		String help_text = "Usage: Prints monthly to-do list\n" + 
-				"Main [YEAR] [FIRST DAY OF MONTH] [MONTH ABREVIATION]\n" + 
+				"ListGenerator [YEAR] [FIRST DAY OF MONTH] [MONTH ABREVIATION]\n" + 
 				"";
 		
 		try {
